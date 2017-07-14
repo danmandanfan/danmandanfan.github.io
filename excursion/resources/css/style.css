@@ -1,7 +1,21 @@
 * {
 background-color: black;
+font-family: verdana;
+text-align: center;
 }
 
 h3 {
   color: white;
+  text-align: center;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+h5 {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+img {
+  align-content: center;
 }

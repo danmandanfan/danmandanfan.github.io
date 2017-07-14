@@ -6,7 +6,7 @@ align-content: center;
 }
 
 h1 {
-  background-color: white;
+  color: white;
   font-weight: normal;
   font-size: 50px;
 }
@@ -14,7 +14,7 @@ h1 {
 h2 {
   font-weight: 300;
   font size: 42px;
-  background-color: white;
+  color: white;
 }
 
 h5 {

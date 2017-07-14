@@ -3,6 +3,7 @@ background-color: black;
 font-family: verdana;
 text-align: center;
 align-content: center;
+color: white;
 }
 
 h1 {
@@ -23,7 +24,7 @@ h5 {
 }
 
 
-p {
+!p {
   font-size: 21px;
   color: gray;
 }
